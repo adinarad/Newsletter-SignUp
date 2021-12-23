@@ -1,5 +1,5 @@
 # Newsletter SignUp
-A Newsletter Signup :page_with_curl: page to collect the details of users who are interested in receiving monthly newsletters through email.
+A Newsletter Signup :page_with_curl: page to collect the details of users who are interested in receiving periodic newsletters through email.
 
 ## How does it work?
 - The frontend of the application (written using ***HTML, CSS & JS***) collects the details of the user.
